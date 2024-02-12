@@ -1,0 +1,11 @@
+#include<stdio.h>
+main(){
+	printf("Tut");
+	printf("\n");
+	printf("Ne");
+	printf("Rabotaet");
+	printf("\n");
+	printf("Russkiy");
+	printf("\n");
+	printf("Yazyk");
+}
